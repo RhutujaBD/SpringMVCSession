@@ -1,0 +1,6 @@
+127.0.0.1 - - [01/Apr/2023:14:59:49 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:14:59:51 +0530] "GET /Spring-MVC-Hibernate-CRUD-Web-App/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:16:27:09 +0530] "GET /Spring-MVC-Hibernate-CRUD-Web-App/customer/updateForm?customerId=1003 HTTP/1.1" 200 2108
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:16:27:38 +0530] "GET /Spring-MVC-Hibernate-CRUD-Web-App/customer/getDetails?customerId=1003 HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:16:27:47 +0530] "GET /Spring-MVC-Hibernate-CRUD-Web-App/customer/getDetails/customerId=1003 HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:16:29:51 +0530] "GET /Spring-MVC-Hibernate-CRUD-Web-App/getDetails/customerId=1003 HTTP/1.1" 404 682

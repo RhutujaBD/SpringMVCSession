@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.example.spring.jdbc.mvc.controller.ListIDSalary&apos; to &apos;ListIDName&apos;&#x0D;&#x0A;- Original project: &apos;Spring-MVC-JDBCTemplate&apos;&#x0D;&#x0A;- Original element: &apos;com.example.spring.jdbc.mvc.controller.ListIDSalary&apos;&#x0D;&#x0A;- Renamed element: &apos;com.example.spring.jdbc.mvc.controller.ListIDName&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ListIDSalary&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.example.spring.jdbc.mvc.controller{ListIDSalary.java[ListIDSalary" matchStrategy="1" name="ListIDName" qualified="false" references="true" similarDeclarations="false" stamp="1680072834750" textual="false" version="1.0"/>
+</session>

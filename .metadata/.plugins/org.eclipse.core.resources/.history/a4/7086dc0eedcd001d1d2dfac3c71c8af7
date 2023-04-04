@@ -1,0 +1,5 @@
+package com.example.spring.jdbc.mvc.controller;
+
+public class ListIDSalary {
+
+}
