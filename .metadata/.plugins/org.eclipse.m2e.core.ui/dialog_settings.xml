@@ -6,6 +6,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\SpringMVCSession\Spring-MVC-Register-Login"/>
 			<item value="E:\SpringMVCSession\Spring-MVC-Hibernate-CRUD-Web-App"/>
 			<item value="E:\SpringMVCSession\Spring-MVC-MultiView"/>
 		</list>
